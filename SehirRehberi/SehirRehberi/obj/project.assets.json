@@ -5655,11 +5655,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Onur\\source\\repos\\SehirRehberi\\SehirRehberi\\SehirRehberi.csproj",
+      "projectUniqueName": "C:\\Users\\Onur\\SehirRehberi\\SehirRehberi\\SehirRehberi\\SehirRehberi.csproj",
       "projectName": "SehirRehberi",
-      "projectPath": "C:\\Users\\Onur\\source\\repos\\SehirRehberi\\SehirRehberi\\SehirRehberi.csproj",
+      "projectPath": "C:\\Users\\Onur\\SehirRehberi\\SehirRehberi\\SehirRehberi\\SehirRehberi.csproj",
       "packagesPath": "C:\\Users\\Onur\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Onur\\source\\repos\\SehirRehberi\\SehirRehberi\\obj\\",
+      "outputPath": "C:\\Users\\Onur\\SehirRehberi\\SehirRehberi\\SehirRehberi\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Onur\\AppData\\Roaming\\NuGet\\NuGet.Config",

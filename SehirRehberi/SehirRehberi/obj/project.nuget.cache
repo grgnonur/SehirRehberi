@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "vN2lL4dYzGNjKNJVmGR+VRRtDFjLljmOUKrwVI0ikWS6zrMKkaMpmZQFs1dNo8OPr06fNqIwzPi2w0zNU7FS/A==",
+  "dgSpecHash": "s6RKjizgjl4pf69EK/9hiuJZZsrh1TbDf0fmsk3WHCLywUR4WoIHF7GC+GPiPCMURzwK7kep7QfxDO+U7mzW4w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Onur\\source\\repos\\SehirRehberi\\SehirRehberi\\SehirRehberi.csproj",
+  "projectFilePath": "C:\\Users\\Onur\\SehirRehberi\\SehirRehberi\\SehirRehberi\\SehirRehberi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Onur\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\Onur\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.0\\microsoft.bcl.hashcode.1.1.0.nupkg.sha512",
