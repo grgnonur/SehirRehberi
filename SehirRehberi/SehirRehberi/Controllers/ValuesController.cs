@@ -33,5 +33,10 @@ namespace SehirRehberi.Controllers
             var values = _context.Test.FirstOrDefault(v => v.Id == id);
             return Ok(values);
         }
+        [HttpPost]
+        public ActionResult GetValuess()
+        {
+            return Ok("Merhaba");
+        }
     }
 }
