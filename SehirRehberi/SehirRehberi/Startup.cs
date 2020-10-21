@@ -29,7 +29,7 @@ namespace SehirRehberi
         {
             services.AddControllers();
             services.AddEntityFrameworkSqlServer().AddDbContext<DataContext>(x => x.UseSqlServer(Configuration.GetConnectionString("DefaultConnection")));
-            
+            services.AddCors(options => options.AddDefaultPolicy(builder => builder.AllowAnyHeader().AllowAnyHeader().AllowAnyOrigin()));
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
@@ -39,10 +39,12 @@ namespace SehirRehberi
             {
                 app.UseDeveloperExceptionPage();
             }
-
+            
             app.UseHttpsRedirection();
 
             app.UseRouting();
+
+            app.UseCors();
 
             app.UseAuthorization();
 
@@ -50,6 +52,8 @@ namespace SehirRehberi
             {
                 endpoints.MapControllers();
             });
+           
+            
         }
     }
 }
