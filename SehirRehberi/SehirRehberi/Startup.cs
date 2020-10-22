@@ -30,6 +30,7 @@ namespace SehirRehberi
             services.AddControllers();
             services.AddEntityFrameworkSqlServer().AddDbContext<DataContext>(x => x.UseSqlServer(Configuration.GetConnectionString("DefaultConnection")));
             services.AddCors(options => options.AddDefaultPolicy(builder => builder.AllowAnyHeader().AllowAnyHeader().AllowAnyOrigin()));
+            services.AddScoped<IAppRepository, AppRepository>();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
