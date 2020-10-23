@@ -109,8 +109,6 @@ C:\Users\Onur\SehirRehberi\SehirRehberi\SehirRehberi\bin\Debug\netcoreapp3.1\run
 C:\Users\Onur\SehirRehberi\SehirRehberi\SehirRehberi\obj\Debug\netcoreapp3.1\SehirRehberi.csprojAssemblyReference.cache
 C:\Users\Onur\SehirRehberi\SehirRehberi\SehirRehberi\obj\Debug\netcoreapp3.1\SehirRehberi.AssemblyInfoInputs.cache
 C:\Users\Onur\SehirRehberi\SehirRehberi\SehirRehberi\obj\Debug\netcoreapp3.1\SehirRehberi.AssemblyInfo.cs
-C:\Users\Onur\SehirRehberi\SehirRehberi\SehirRehberi\obj\Debug\netcoreapp3.1\SehirRehberi.csproj.CoreCompileInputs.cache
-C:\Users\Onur\SehirRehberi\SehirRehberi\SehirRehberi\obj\Debug\netcoreapp3.1\SehirRehberi.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\Onur\SehirRehberi\SehirRehberi\SehirRehberi\obj\Debug\netcoreapp3.1\SehirRehberi.RazorTargetAssemblyInfo.cache
 C:\Users\Onur\SehirRehberi\SehirRehberi\SehirRehberi\obj\Debug\netcoreapp3.1\SehirRehberi.csproj.CopyComplete
 C:\Users\Onur\SehirRehberi\SehirRehberi\SehirRehberi\obj\Debug\netcoreapp3.1\staticwebassets\SehirRehberi.StaticWebAssets.Manifest.cache
@@ -118,3 +116,8 @@ C:\Users\Onur\SehirRehberi\SehirRehberi\SehirRehberi\obj\Debug\netcoreapp3.1\sta
 C:\Users\Onur\SehirRehberi\SehirRehberi\SehirRehberi\obj\Debug\netcoreapp3.1\SehirRehberi.dll
 C:\Users\Onur\SehirRehberi\SehirRehberi\SehirRehberi\obj\Debug\netcoreapp3.1\SehirRehberi.pdb
 C:\Users\Onur\SehirRehberi\SehirRehberi\SehirRehberi\obj\Debug\netcoreapp3.1\SehirRehberi.genruntimeconfig.cache
+C:\Users\Onur\SehirRehberi\SehirRehberi\SehirRehberi\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\Onur\SehirRehberi\SehirRehberi\SehirRehberi\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Onur\SehirRehberi\SehirRehberi\SehirRehberi\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Onur\SehirRehberi\SehirRehberi\SehirRehberi\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\Onur\SehirRehberi\SehirRehberi\SehirRehberi\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll

@@ -12,7 +12,7 @@ namespace SehirRehberi.Model
         public string Url { get; set; }
         public string Description { get; set; }
         public DateTime DateAdded { get; set; }
-        public bool IsMain { get; set; }
+        public bool IsMain { get; set; } //Ana Fotoğrafmı birinci fotoğrafmı
         public string PublicId { get; set; }
 
         public City City { get; set; }
